@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Searching front-end internship<br>🤝 I’m looking for freelance coding in the future <br>🌱 I’m currently learning advanced javascript<br>⚡ Loves music
+🔭 Searching front-end internship<br>🤝 I’m looking for freelance coding in the future <br>🌱 I’m currently learning advanced javascript<br>⚡ Loves music/guitar
 
 
 ## 🌐 Socials:
